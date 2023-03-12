@@ -1,0 +1,9 @@
+.App{
+  margin: 50px auto;
+}
+.Profile{
+    display: flex;
+    flex-direction: column;
+    
+
+}
